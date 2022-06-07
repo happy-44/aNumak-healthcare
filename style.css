@@ -1,0 +1,236 @@
+body{
+    background-color: whitesmoke;
+}
+.happy{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 76vh;
+    width:78.9rem;
+    background-color: grey;
+}
+.intro{
+    /* margin-top: 30rem; */
+    display: flex;
+}
+.textsize{
+    height: 6rem;
+    width: 17rem;
+    margin: 4rem;
+    margin-top: 4.5rem;
+    margin-right: 1rem;
+    background-color: red;
+}
+.textsize h1{
+    text-align: center;
+    font-size: 4rem;
+    margin-top: 0.3rem;
+    color: white;
+}
+p{
+    margin-top: 4rem;
+    line-height: 2;
+    font-family: system-ui;
+    font-weight:500;
+    font-size:1rem;
+    margin-right: 4rem;
+}
+.intro1{
+    margin-left: 4.5rem;
+    margin-top: -4rem;
+    display: flex;
+}
+.img1 img{
+    height: 17.5rem;
+    width: 30rem;
+    margin-left: -2rem;
+    margin-right: 4rem;
+    margin-top: 4.6rem;
+}
+.success{
+    height:108vh;
+    width: 78.999rem;
+    background-color: #03075D;
+    margin-left: -0.6rem;
+    margin-top: -1rem;
+}
+.success p{
+    font-size: 3rem;
+    color: white;
+    margin-left: 5rem;
+    font-weight: bold;
+    font-size-adjust: 10rem;
+}
+.blocks{
+    height: 15rem;
+    width: calc(100% -4rem);
+    display: flex;
+    margin-left: 5.2rem;
+}
+.color{
+    height: 20rem;
+    width:15rem;
+    background-color: white;
+    margin-right: 2.5rem;
+}
+input{
+    margin-top: 10rem;
+    margin-left: 33.5rem;
+    height: 3rem;
+    size:20;
+    font-weight: bold;
+    text-align: center;
+    background-color: #03075D;
+    color:white;
+    border: 2px solid white;
+}
+.services{
+    height : 4rem;
+    width: 75rem;
+}
+.services h1{
+    margin-left: 26rem;
+    font-size: 5rem;
+}
+.block1{
+    height: 15rem;
+    width: calc(100% -4rem);
+    display: flex;
+    margin-left: 6.5rem;
+    margin-top: -25rem;
+    position: absolute;
+    top:77rem;
+    left: 2rem;
+}
+.images_service{
+    margin-left: 6.5rem;
+    
+}
+.images_service img{
+    height: 12rem;
+    width: 18rem;
+    margin-top: 4rem;
+    margin-right: 4rem;
+   
+}
+.color1{
+    height: 20rem;
+    width:18rem;
+    background-color: white;
+    margin-right: 4.3rem;
+}
+.success1{
+    height:121vh;
+    width: 78.999rem;
+    background-color: whitesmoke;
+    margin-left: -0.6rem;
+    margin-top: 0rem;
+}
+.success1 input{
+    margin-top: 19rem;
+    margin-left: 33.5rem;
+    height: 3rem;
+    size:20;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    background-color: white;
+    border: 2px solid black;
+}
+.touch{
+    height: 10rem;
+    width: 78.999rem;
+    background-color: grey;
+    margin-left: -0.6rem;
+    display: flex;
+}
+.touch h1{
+    font-size: 3rem;
+    margin-left: 9rem;
+    padding-top: 1.3rem;
+}
+.touch input{
+    height : 4rem;
+    width: 12rem;
+    background-color: red;
+    position: absolute;
+    right:7rem;
+    top:158rem;
+    font-size: 1.5rem;
+}
+.success2{
+    height:95vh;
+    width: 78.999rem;
+    /* background-color:; */
+    margin-left: -0.6rem;
+    margin-top: -2rem;
+}
+.success2 p{
+    font-size: 3rem;
+    color: black;
+    margin-left: 5rem;
+    font-weight: bold;
+    font-size-adjust: 10rem;
+}
+.related_image{
+    height: 15rem;
+    width: calc(100% -4rem);
+    display: flex;
+    margin-left: 5.2rem;
+}
+.related_image img{
+    height: 9rem;
+    width: 15rem;
+    margin-right: 2.5rem;
+}
+.block2{
+    height: 15rem;
+    width: calc(100% -4rem);
+    display: flex;
+    margin-left: 5.2rem;
+    margin-top: -6rem;
+}
+.color2{
+    height: 15rem;
+    width:15rem;
+    background-color: white;
+    margin-right: 2.5rem;
+}
+.color2 h1{
+    padding: 10rem;
+}
+.color2 p{
+    font-size: -10rem;
+    color: black;
+}
+.p1 p{
+    font-size: 1.5rem;
+    margin-left: 0rem;
+    margin-top: 0.5rem;
+    text-decoration: underline;
+}
+input:hover{
+    background-color: black;
+    cursor: pointer;
+    border: 2px solid aquamarine;
+}
+.p1 p:hover{
+    text-decoration: none;
+    cursor: pointer;
+}
+.success1 input:hover{
+    background-color: black;
+    color: white;
+    border: 2px solid aquamarine;
+}
+.color2:hover{
+    transform: scale(1.1);
+}
+.color1:hover{
+    transform:scale(1.1);
+}
+.color:hover{
+    transform: scale(1.1);
+}
+
+
